@@ -6,7 +6,11 @@ id: root
 
 Miking is a meta-language system for creating embedded languages, and this site holds its documentation.
 
+:::warning
+
 We are currently in the process of restructuring our documentation (see [here](https://documentation.divio.com/) for more information on the intent), thus some information can be found in the first four categories below (where they should be) and some can be found in the fifth category.
+
+:::
 
 ## Content
 
